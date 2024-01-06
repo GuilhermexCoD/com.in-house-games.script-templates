@@ -1,2 +1,4 @@
-# com.in-house-games.script-templates
-This package brings a sweet startup with script templates and utilities
+# In House Games
+## Script Templates
+
+This package brings some script templates to help with the most communs scripts you could use.

@@ -1,0 +1,7 @@
+{
+    "name": "com.in-house-games.script-templates",
+    "version": "1.0.0",
+    "displayName": "In House Games Script Templates",
+    "description": "This package brings a sweet startup with script templates and utilities",
+    "unity": "2019.1"
+}
