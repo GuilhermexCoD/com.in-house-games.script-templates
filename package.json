@@ -3,5 +3,12 @@
     "version": "1.0.0",
     "displayName": "In House Games Script Templates",
     "description": "This package brings a sweet startup with script templates and utilities",
-    "unity": "2019.1"
+    "unity": "2019.1",
+    "samples": [
+        {
+            "displayName": "Script Templates",
+            "description": "Contains script templates",
+            "path": "Samples~/ScriptTemplates"
+        }
+    ]
 }
