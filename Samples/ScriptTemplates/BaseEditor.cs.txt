@@ -1,0 +1,13 @@
+using UnityEditor;
+using UnityEngine;
+
+    #ROOTNAMESPACEBEGIN#
+[CustomEditor(typeof(#SELECTEDSCRIPTNAME#), true)]
+public class #SCRIPTNAME# : BaseEditor
+{
+    public override void OnInspectorGUI()
+    {
+        base.OnInspectorGUI();
+    }
+}
+#ROOTNAMESPACEEND#
